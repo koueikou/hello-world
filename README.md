@@ -1,2 +1,2 @@
 # hello-world
-githug learing
+github learing.
